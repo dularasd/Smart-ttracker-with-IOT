@@ -30,15 +30,23 @@ A project portfolio website for documentation.
 The circuit integrates various modules and components to provide seamless monitoring and control. Key design features include:
 
 A9G Module and DHT11: Connected to the ESP32 via UART for GPS, GSM, and temperature sensing functionalities.
+
 Cellular Network: Communication with the ESP32 via MQTT protocol for real-time data transfer.
 Alert Signals:
 Buzzer and LEDs are connected to ESP32 GPIO pins to provide visual and audible alerts.
+
 Mobile App Communication: Enabled through the cellular network, ensuring connectivity between the vehicle and the user interface.
+
 💻 Technologies Used
+
 🛠️ Tools
+
 ✅ RX-TX Protocol
+
 ✅ MQTT Protocol
+
 ✅ Arduino Cloud Service
+
 ✅ Visual Studio Code
 
 🔧 Framework
