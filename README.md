@@ -50,9 +50,13 @@ Mobile App Communication: Enabled through the cellular network, ensuring connect
 ✅ Visual Studio Code
 
 
+
+
 🔧 Framework
 
 ✅ React Native
+
+
 
 
 🔌 Hardware
@@ -70,6 +74,8 @@ Mobile App Communication: Enabled through the cellular network, ensuring connect
 ✅ Push Button
 
 
+
+
 📚 References
 
 (https://docs.ai-thinker.com/en/gprs/a9g/boards)
@@ -78,6 +84,10 @@ Mobile App Communication: Enabled through the cellular network, ensuring connect
 Result
 
 ![1744451522224](https://github.com/user-attachments/assets/26826ad0-a11e-4bbe-a9ab-76a9c93c725b)
+
+![1744451522212](https://github.com/user-attachments/assets/a06567c3-2ee1-4c03-9988-51a219cbba23)
+
+![1744451523452](https://github.com/user-attachments/assets/c0c8a71b-949e-44c8-8fa2-2de82d3c3de9)
 
 👥 Team
 
@@ -95,6 +105,8 @@ BANDARA H.M.S.A.	2021/E/187
 
 🌟 Future Improvements
 project portfolio website with payment method
+
 🌟 Contact us
 dularasrimanthaedu@gmail.com
+
 pramudakulathunga@gmail.com
