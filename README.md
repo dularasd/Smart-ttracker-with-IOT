@@ -50,17 +50,25 @@ Mobile App Communication: Enabled through the cellular network, ensuring connect
 ✅ Visual Studio Code
 
 🔧 Framework
+
 ✅ React Native
 
 🔌 Hardware
+
 ✅ ESP32 Dev Module
+
 ✅ DHT11 Temperature Sensor
+
 ✅ A9G GPS GSM GPRS Development Module
+
 ✅ TP4056 Charging Module
+
 ✅ 12V Buzzer
+
 ✅ Push Button
 
 📚 References
+
 (https://docs.ai-thinker.com/en/gprs/a9g/boards)
 (https://www.espressif.com/en/products/socs/esp32)
 
