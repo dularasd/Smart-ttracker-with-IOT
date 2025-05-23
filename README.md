@@ -2,6 +2,7 @@
 
 SmartTrack
 IoT Vehicle Monitoring and Control System for Rent-a-Car Service Owners
+
 📖 Introduction
 SmartTrack is an IoT-based solution tailored for rent-a-car businesses to improve safety, accountability, and vehicle control. The system integrates:
 
@@ -10,6 +11,7 @@ A dual-panel mobile app for owners and drivers.
 A project portfolio website for documentation.
 
 🚩 Key Features
+
 ✅ Speed Monitoring: Ensures safe driving practices.
 
 ✅ Fire Detection: Alerts during emergencies.
