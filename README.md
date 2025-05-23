@@ -49,9 +49,11 @@ Mobile App Communication: Enabled through the cellular network, ensuring connect
 
 ✅ Visual Studio Code
 
+
 🔧 Framework
 
 ✅ React Native
+
 
 🔌 Hardware
 
@@ -67,14 +69,14 @@ Mobile App Communication: Enabled through the cellular network, ensuring connect
 
 ✅ Push Button
 
+
 📚 References
 
 (https://docs.ai-thinker.com/en/gprs/a9g/boards)
 (https://www.espressif.com/en/products/socs/esp32)
 
 Result
-![1744451523452]([1744451522212](https://github.com/user-attachments/assets/d05fc490-67b3-4171-86fc-a2c98dd483bc)
-s://github.com/user-attachments/assets/5c91f66e-5912-4304-91c2-af5a6a65d9d3)
+
 ![1744451522224](https://github.com/user-attachments/assets/26826ad0-a11e-4bbe-a9ab-76a9c93c725b)
 
 👥 Team
