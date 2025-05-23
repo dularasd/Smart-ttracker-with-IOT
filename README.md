@@ -8,10 +8,14 @@ SmartTrack is an IoT-based solution tailored for rent-a-car businesses to improv
 ESP32-powered hardware modules installed in vehicles.
 A dual-panel mobile app for owners and drivers.
 A project portfolio website for documentation.
+
 🚩 Key Features
 ✅ Speed Monitoring: Ensures safe driving practices.
+
 ✅ Fire Detection: Alerts during emergencies.
+
 ✅ GPS Tracking: Real-time location updates.
+
 ✅ Parking Management: Simplifies organization of parked vehicles.
 
 ⚙️ Circuit Design
